@@ -16,8 +16,6 @@ After the prefix comes the package name in lowercase, for example `nsProcess` â†
 
 Every package repository follows the [NSIS Package Layout Specification](https://github.com/nsis-dev/release-package/blob/main/SPEC.md), so releases unpack straight into an NSIS folder.
 
-Code changes are limited to what is needed to build a package. If you are the original author, you're welcome to take your package over: open an issue in its repository and we'll transfer it to you.
-
 ## Developer
 
 Building these repositories is one step toward moving away from the current SourceForge-hosted wiki. They may also provide the foundation for installing NSIS plug-ins programmatically. For that to work, packages need to follow shared conventions, including the [NSIS Package Layout Specification](https://github.com/nsis-dev/release-package/blob/main/SPEC.md).
