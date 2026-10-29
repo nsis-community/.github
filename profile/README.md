@@ -18,6 +18,12 @@ Every package repository follows the [NSIS Package Layout Specification](https:/
 
 Code changes are limited to what is needed to build a package. If you are the original author, you're welcome to take your package over: open an issue in its repository and we'll transfer it to you.
 
+## Developer
+
+Building these repositories is one step toward moving away from the current SourceForge-hosted wiki. They may also provide the foundation for installing NSIS plug-ins programmatically. For that to work, packages need to follow shared conventions, including the [NSIS Package Layout Specification](https://github.com/nsis-dev/release-package/blob/main/SPEC.md).
+
+This isn't about taking anyone's work away. If one of your plug-ins has been ported here, you're warmly invited to adopt it and carry it forward. Already host your plug-in on GitHub? You're welcome to keep your repository and apply the same conventions so it can fit into the same ecosystem.
+
 ## Other repositories
 
 - [migration-status](https://github.com/nsis-community/migration-status): build status of every migrated package
