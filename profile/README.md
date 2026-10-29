@@ -18,7 +18,7 @@ Every package repository follows the [NSIS Package Layout Specification](https:/
 
 ## Developer
 
-Building these repositories is one step toward moving away from the current SourceForge-hosted wiki. They may also provide the foundation for installing NSIS plug-ins programmatically. For that to work, packages need to follow shared conventions, including the [NSIS Package Layout Specification](https://github.com/nsis-dev/release-package/blob/main/SPEC.md).
+Building these repositories is one step toward moving away from the current SourceForge-hosted wiki. They may also provide the foundation for installing NSIS plug-ins programmatically. For that to work, packages need to follow shared conventions, such as the [aforementioned specification](https://github.com/nsis-dev/release-package/blob/main/SPEC.md).
 
 This isn't about taking anyone's work away. If one of your plug-ins has been ported here, you're warmly invited to adopt it and carry it forward. Already host your plug-in on GitHub? You're welcome to keep your repository and apply the same conventions so it can fit into the same ecosystem.
 
